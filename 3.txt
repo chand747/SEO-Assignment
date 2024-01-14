@@ -1,0 +1,17 @@
+What are the benefits of using meta tags.
+Solutuon:-
+
+i) Improved Organization:
+- It can help business to organize digital assets by adding descriptive information such as keywords, titles, and descriptions.
+
+ii) Consistency:
+- A metadata tagging system can help to ensure that all digital assets are consistent with brand guidelines by adding standardized tags and descriptions.
+
+iii) Time-Saving:
+- Metadata tagging can save time by automating the process of adding descriptive information to digital assets.
+
+iv) Relevancy:
+- Meta tags show search engines how relevant your page is to the user's query.
+
+v) They optimize our site without making things untidy:
+- Meta tag do not affect the actual Visible content of our websites in any way.

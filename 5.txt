@@ -1,0 +1,6 @@
+Define Favicon and give an illustrative examlpe.
+Solution:-
+
+- Favicon is a small 16*16 pixel icon that serves as branding for our websites.
+- It's main purpose is to help visitors locate your page easier when they have multiple tabs open.
+- Favicons are found in bookmarks, tabs, toolbar apps, history results and search bars.
